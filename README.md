@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rogerioftn
-- 👀 I’m interested in Enginer software, entrepreneur, startup, marketing
-- 🌱 I’m currently learning Enginer software, marketing
+- 👀 I’m interested in Engineer software, entrepreneurship, startup, marketing, 
+- 🌱 I’m currently learning Engineer software, marketing
 - 💞️ I’m looking to collaborate on project open source
 - 📫 How to reach me rogerioftno@gmail.com
 
